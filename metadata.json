@@ -1,0 +1,6 @@
+{
+  "name": "MindMatch AI",
+  "description": "An interactive card flip memory match puzzle game featuring multiple aesthetic themes, LocalStorage stats, medal achievements, and an adjustable heuristic AI opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
